@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Сашка\\Desktop\\GeekBrainsDZ\\2zadacha\\2zadacha.csproj": {}
+    "C:\\Users\\Сашка\\Desktop\\GeekBrainsDZ\\8zadacha\\8zadacha.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Сашка\\Desktop\\GeekBrainsDZ\\2zadacha\\2zadacha.csproj": {
+    "C:\\Users\\Сашка\\Desktop\\GeekBrainsDZ\\8zadacha\\8zadacha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Сашка\\Desktop\\GeekBrainsDZ\\2zadacha\\2zadacha.csproj",
-        "projectName": "2zadacha",
-        "projectPath": "c:\\Users\\Сашка\\Desktop\\GeekBrainsDZ\\2zadacha\\2zadacha.csproj",
+        "projectUniqueName": "C:\\Users\\Сашка\\Desktop\\GeekBrainsDZ\\8zadacha\\8zadacha.csproj",
+        "projectName": "8zadacha",
+        "projectPath": "C:\\Users\\Сашка\\Desktop\\GeekBrainsDZ\\8zadacha\\8zadacha.csproj",
         "packagesPath": "C:\\Users\\Сашка\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Сашка\\Desktop\\GeekBrainsDZ\\2zadacha\\obj\\",
+        "outputPath": "C:\\Users\\Сашка\\Desktop\\GeekBrainsDZ\\8zadacha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сашка\\AppData\\Roaming\\NuGet\\NuGet.Config"
