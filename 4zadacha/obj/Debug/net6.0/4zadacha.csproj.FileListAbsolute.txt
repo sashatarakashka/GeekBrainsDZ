@@ -1,0 +1,15 @@
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\obj\Debug\net6.0\4zadacha.csproj.AssemblyReference.cache
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\obj\Debug\net6.0\4zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\obj\Debug\net6.0\4zadacha.AssemblyInfoInputs.cache
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\obj\Debug\net6.0\4zadacha.AssemblyInfo.cs
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\obj\Debug\net6.0\4zadacha.csproj.CoreCompileInputs.cache
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\bin\Debug\net6.0\4zadacha.exe
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\bin\Debug\net6.0\4zadacha.deps.json
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\bin\Debug\net6.0\4zadacha.runtimeconfig.json
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\bin\Debug\net6.0\4zadacha.dll
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\bin\Debug\net6.0\4zadacha.pdb
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\obj\Debug\net6.0\4zadacha.dll
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\obj\Debug\net6.0\refint\4zadacha.dll
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\obj\Debug\net6.0\4zadacha.pdb
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\obj\Debug\net6.0\4zadacha.genruntimeconfig.cache
+C:\Users\Сашка\Desktop\GeekBrainsDZ\4zadacha\obj\Debug\net6.0\ref\4zadacha.dll
